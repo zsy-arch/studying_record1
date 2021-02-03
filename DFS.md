@@ -4,6 +4,7 @@
 #include <iostream>
 #include <string>
 
+
 int n, m;
 std::string map[11];
 bool vis[100][100];
